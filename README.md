@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Julia: neglecting to handle zero or boundary cases in conditional logic. The `my_function` initially lacked explicit handling for `x == 0`, leading to potential issues.  The solution demonstrates how to correctly include this edge case.
